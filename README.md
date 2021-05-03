@@ -9,8 +9,8 @@ This repository contains the dataset used in the Voice-Activated Smart Home Cont
 If this dataset has been useful for your research and you would like to cite it in an scientific publication, please refer to this [paper](http://dx.doi.org/10.1109/ACCESS.2021.3076750):
 
 ```bibtex
-@article{Filipe2021,  
-    author={Filipe, Leandro and Peres, Ricardo Silva and Tavares, Rui Manuel},
+@article{Filipe2021,
+	author={Filipe, Leandro and Peres, Ricardo Silva and Tavares, Rui Manuel},
 	journal={IEEE Access},
 	title={Voice-Activated Smart Home Controller Using Machine Learning},
 	year={2021},
