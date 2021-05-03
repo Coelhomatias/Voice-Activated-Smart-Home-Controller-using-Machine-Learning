@@ -10,7 +10,7 @@ If this dataset has been useful for your research and you would like to cite it 
 
 ```bibtex
 @article{Filipe2021,  
-	author={Filipe, Leandro and Peres, Ricardo Silva and Tavares, Rui Manuel},
+    author={Filipe, Leandro and Peres, Ricardo Silva and Tavares, Rui Manuel},
 	journal={IEEE Access},
 	title={Voice-Activated Smart Home Controller Using Machine Learning},
 	year={2021},
