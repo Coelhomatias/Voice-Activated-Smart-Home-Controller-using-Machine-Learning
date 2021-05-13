@@ -10,14 +10,14 @@ If this dataset has been useful for your research and you would like to cite it 
 
 ```bibtex
 @article{Filipe2021,
-    author={Filipe, Leandro and Peres, Ricardo Silva and Tavares, Rui Manuel},
-    journal={IEEE Access},
-    title={Voice-Activated Smart Home Controller Using Machine Learning},
-    year={2021},
-    volume={},
-    number={},
-    pages={1-1},
-    doi={10.1109/ACCESS.2021.3076750}
-}
+  author={Filipe, Leandro and Peres, Ricardo Silva and Tavares, Rui Manuel},
+  journal={IEEE Access}, 
+  title={Voice-Activated Smart Home Controller Using Machine Learning}, 
+  year={2021},
+  volume={9},
+  number={},
+  pages={66852-66863},
+  doi={10.1109/ACCESS.2021.3076750}
+  }
 ```
-
+>L. Filipe, R. S. Peres and R. M. Tavares, "Voice-Activated Smart Home Controller Using Machine Learning," in IEEE Access, vol. 9, pp. 66852-66863, 2021, doi: [10.1109/ACCESS.2021.3076750](http://dx.doi.org/10.1109/ACCESS.2021.3076750).
